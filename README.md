@@ -49,9 +49,9 @@ spacebar: stop/play,
 ```
 
 ## Pictures:!
-[party](https://user-images.githubusercontent.com/55106217/194853478-f946755a-989e-4667-909f-31b6f6c1705f.jpeg)
+![party](https://user-images.githubusercontent.com/55106217/194853478-f946755a-989e-4667-909f-31b6f6c1705f.jpeg)
 
-[test](https://user-images.githubusercontent.com/55106217/194853364-847bece8-7800-48d1-a089-7cab929d4a81.jpeg)
+![test](https://user-images.githubusercontent.com/55106217/194853364-847bece8-7800-48d1-a089-7cab929d4a81.jpeg)
 
 ## Credits and more informations
 * https://github.com/ssshake/pi-uhf-tv-station
